@@ -1,17 +1,25 @@
 {
   "name": "@slosarek/greenlock-data-layer",
   "version": "1.0.0",
-  "description": "",
+  "description": "MongoDB backend use for several greenlock libraries",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "mark@slosarek.com",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "mongodb": "^4.4.1"
   },
   "devDependencies": {
     "prettier": "2.5.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mslosarek/greenlock-data-layer.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mslosarek/greenlock-data-layer/issues"
+  },
+  "homepage": "https://github.com/mslosarek/greenlock-data-layer#readme"
 }
