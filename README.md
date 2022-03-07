@@ -5,7 +5,7 @@ Library used in custom greenlock libraries to consolidate MongoDB interactions.
 ## Installation
 
 ```bash
-pip install @slosarek/greenlock-data-layer
+npm install @slosarek/greenlock-data-layer
 ```
 
 ## License
